@@ -18,6 +18,13 @@
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
 </p>
 
+<details>
+<summary>📊 Github Stats</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chinmoy07-an&show_icons=true&theme=gotham" alt="chinmoy anand | Stats" />
+</details>
+
+![Visitor Count](https://profile-counter.glitch.me/{chinmoy07-an}/count.svg)
+
 <!---
 chinmoy07-an/chinmoy07-an is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
