@@ -6,6 +6,7 @@
 </p>
 
 ### My Tech Toolbox 🧰
+
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -16,12 +17,18 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitbucket-blue-logomark-only.svg" alt="bitbucket" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="unix" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="unix" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="unix" width="40" height="40"/>
 </p>
+
+* Motivated Data Engineer with 2+ years of experience.
 
 <details>
 <summary>📊 Github Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chinmoy07-an&show_icons=true&theme=gotham" alt="chinmoy anand | Stats" />
 </details>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{chinmoy07-an}/count.svg)
 
