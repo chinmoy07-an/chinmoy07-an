@@ -5,7 +5,9 @@
 <a href="https://www.hackerrank.com/anandchinmoy_36"><img height="30" src="https://img.shields.io/badge/HackerRank-%2312100E.svg?&style=for-the-badge&logo=hackerrank"></a>
 </p>
 
+
 ### My Tech Toolbox 🧰
+
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
@@ -22,12 +24,17 @@
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="unix" width="40" height="40"/>
 </p>
 
-* Motivated Data Engineer with 2+ years of experience.
+
+#### _Motivated Data Engineer with 2+ years of experience_
+
+
 
 <details>
 <summary>📊 Github Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chinmoy07-an&show_icons=true&theme=gotham" alt="chinmoy anand | Stats" />
 </details>
+
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{chinmoy07-an}/count.svg)
